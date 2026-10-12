@@ -599,3 +599,13 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 [#xumm-sdk]: https://github.com/XRPL-Labs/XUMM-SDK
 [#ledger.com]: https://ledger.com
 [#wietse]: https://wietse.com
+
+## Tree of Life Treasures (Night Watch picks)
+
+- [xahaud](https://github.com/Xahau/xahaud)
+- [Mem0](https://github.com/mem0ai/mem0)
+- [CrewAI](https://github.com/crewAIInc/crewAI)
+- [Letta](https://github.com/letta-ai/letta)
+- [Phaser](https://github.com/phaserjs/phaser)
+- [KAPLAY](https://github.com/kaplayjs/kaplay)
+- [Just the Docs](https://github.com/just-the-docs/just-the-docs)
