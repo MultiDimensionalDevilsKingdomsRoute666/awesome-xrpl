@@ -622,3 +622,6 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [hooks-rs](https://github.com/Xahau/hooks-rs) - Write Xahau Hooks in Rust.
 - [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny HTML5 game engine.
 - [Excalibur](https://github.com/excaliburjs/Excalibur) - TypeScript game engine.
+- [open-webui](https://github.com/open-webui/open-webui) - Friendly self-hosted chat window for local models like Ollama.
+- [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - Daily-updated ranking of top GitHub repos by stars and forks.
+
