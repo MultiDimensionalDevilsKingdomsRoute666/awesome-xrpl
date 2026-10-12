@@ -609,3 +609,16 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Phaser](https://github.com/phaserjs/phaser)
 - [KAPLAY](https://github.com/kaplayjs/kaplay)
 - [Just the Docs](https://github.com/just-the-docs/just-the-docs)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - Fast CPU inference for small GGUF models.
+- [llamafile](https://github.com/mozilla-ai/llamafile) - One-file LLM executable.
+- [ollama-python](https://github.com/ollama/ollama-python) - Python client for local Ollama.
+- [web-llm](https://github.com/mlc-ai/web-llm) - In-browser LLM inference via WebGPU.
+- [OASIS](https://github.com/camel-ai/oasis) - Large-scale social agent simulation.
+- [CAMEL](https://github.com/camel-ai/camel) - Role-playing multi-agent framework.
+- [A2A](https://github.com/a2aproject/A2A) - Open agent-to-agent protocol.
+- [Graphiti](https://github.com/getzep/graphiti) - Temporal knowledge-graph memory for agents.
+- [cognee](https://github.com/topoteretes/cognee) - Memory layer for AI agents.
+- [XahauHooks101](https://github.com/Handy4ndy/XahauHooks101) - Beginner Xahau Hooks lessons.
+- [hooks-rs](https://github.com/Xahau/hooks-rs) - Write Xahau Hooks in Rust.
+- [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny HTML5 game engine.
+- [Excalibur](https://github.com/excaliburjs/Excalibur) - TypeScript game engine.
