@@ -625,4 +625,6 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [open-webui](https://github.com/open-webui/open-webui) - Friendly self-hosted chat window for local models like Ollama.
 - [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - Daily-updated ranking of top GitHub repos by stars and forks.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - Self-study plan from computer basics to software engineer.
+- [cl-sdk](https://github.com/Cortical-Labs/cl-sdk) - Simulator for the CL1 living-neuron computer API.
+- [cl-api-doc](https://github.com/Cortical-Labs/cl-api-doc) - Early CL API docs for Cortical Labs' CL1.
 
