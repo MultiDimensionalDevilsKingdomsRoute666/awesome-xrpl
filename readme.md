@@ -627,4 +627,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - Self-study plan from computer basics to software engineer.
 - [cl-sdk](https://github.com/Cortical-Labs/cl-sdk) - Simulator for the CL1 living-neuron computer API.
 - [cl-api-doc](https://github.com/Cortical-Labs/cl-api-doc) - Early CL API docs for Cortical Labs' CL1.
+- [Hindsight](https://github.com/vectorize-io/hindsight) - Open-source agent memory that learns (MIT, 1.0 on Oct 13, 2026).
 
