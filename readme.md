@@ -629,4 +629,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [cl-api-doc](https://github.com/Cortical-Labs/cl-api-doc) - Early CL API docs for Cortical Labs' CL1.
 - [Hindsight](https://github.com/vectorize-io/hindsight) - Open-source agent memory that learns (MIT, 1.0 on Oct 13, 2026).
 - [Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) - Shared long-term memory for agents across tools (Apache-2.0, 2.0 on Oct 15, 2026).
+- [Agent-Native](https://github.com/BuilderIO/agent-native) - Framework for agents with their own app UIs, shared skills and memory, MCP and A2A (MIT, beta Oct 14, 2026).
 
