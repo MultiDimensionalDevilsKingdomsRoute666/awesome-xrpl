@@ -630,4 +630,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Hindsight](https://github.com/vectorize-io/hindsight) - Open-source agent memory that learns (MIT, 1.0 on Oct 13, 2026).
 - [Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) - Shared long-term memory for agents across tools (Apache-2.0, 2.0 on Oct 15, 2026).
 - [Agent-Native](https://github.com/BuilderIO/agent-native) - Framework for agents with their own app UIs, shared skills and memory, MCP and A2A (MIT, beta Oct 14, 2026).
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Open-source Python/.NET framework for multi-agent workflows with checkpointing, human-in-the-loop, MCP and A2A (MIT, python 1.23.0 on Oct 22, 2026).
 
