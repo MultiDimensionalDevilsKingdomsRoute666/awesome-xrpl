@@ -633,4 +633,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework) - Open-source Python/.NET framework for multi-agent workflows with checkpointing, human-in-the-loop, MCP and A2A (MIT, python 1.23.0 on Oct 22, 2026).
 - [AgentOS](https://github.com/framerslab/agentos) - TypeScript agent framework with persistent cognitive memory, personalities and multi-agent teams (Apache-2.0, v0.15.23 on Oct 26, 2026).
 - [Agensh](https://github.com/microsoft/Agensh) - Decentralized multi-agent harness where agents claim sub-tasks, share findings and merge progress without a central boss (MIT, open-sourced Oct 24, 2026).
+- [TenseMem](https://github.com/tensemem/tensemem) - Embedded, deterministic agent memory in one SQLite file that keeps one current value per fact, reports freshness and keeps history (Apache-2.0, 0.1.0 alpha, Show HN Oct 22, 2026).
 
