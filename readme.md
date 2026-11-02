@@ -635,4 +635,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Agensh](https://github.com/microsoft/Agensh) - Decentralized multi-agent harness where agents claim sub-tasks, share findings and merge progress without a central boss (MIT, open-sourced Oct 24, 2026).
 - [TenseMem](https://github.com/tensemem/tensemem) - Embedded, deterministic agent memory in one SQLite file that keeps one current value per fact, reports freshness and keeps history (Apache-2.0, 0.1.0 alpha, Show HN Oct 22, 2026).
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript runtime for agent teams with shared memory, durable approvals and verifiable run records (MIT, v1.23.0 on Oct 29, 2026).
+- [Caura](https://github.com/caura-ai/caura) - Self-hostable shared, governed memory for fleets of AI agents with trust tiers, audit trails and MCP access, formerly MemClaw (Apache-2.0, backend v3.37.8 on Nov 2, 2026).
 
