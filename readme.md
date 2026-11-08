@@ -636,4 +636,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [TenseMem](https://github.com/tensemem/tensemem) - Embedded, deterministic agent memory in one SQLite file that keeps one current value per fact, reports freshness and keeps history (Apache-2.0, 0.1.0 alpha, Show HN Oct 22, 2026).
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript runtime for agent teams with shared memory, durable approvals and verifiable run records (MIT, v1.23.0 on Oct 29, 2026).
 - [Caura](https://github.com/caura-ai/caura) - Self-hostable shared, governed memory for fleets of AI agents with trust tiers, audit trails and MCP access, formerly MemClaw (Apache-2.0, backend v3.37.8 on Nov 2, 2026).
+- [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for coding agents across sessions via MCP, with lessons, retrieval and local-first defaults (Apache-2.0, v0.9.32 on Nov 4, 2026).
 
