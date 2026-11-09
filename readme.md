@@ -637,4 +637,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Open Multi-Agent](https://github.com/open-multi-agent/open-multi-agent) - Self-hosted TypeScript runtime for agent teams with shared memory, durable approvals and verifiable run records (MIT, v1.23.0 on Oct 29, 2026).
 - [Caura](https://github.com/caura-ai/caura) - Self-hostable shared, governed memory for fleets of AI agents with trust tiers, audit trails and MCP access, formerly MemClaw (Apache-2.0, backend v3.37.8 on Nov 2, 2026).
 - [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for coding agents across sessions via MCP, with lessons, retrieval and local-first defaults (Apache-2.0, v0.9.32 on Nov 4, 2026).
+- [Hivemind](https://github.com/Lesur-ai/hivemind) - Vendor-neutral MCP service that gives a project its own shared short, mid and long-term memory so any agent can pick up what the others learned (Apache-2.0, v1.6.6 on Nov 8, 2026).
 
