@@ -644,4 +644,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - MCP server that bridges IDA Pro with language models (MIT, v1.4.0 on Oct 6, 2025; needs paid IDA Pro, not IDA Free).
 - [REA](https://github.com/morluto/rea) - MCP and CLI for reverse-engineering binaries, applications and runtime behavior with agents (MIT, rea-agents v6.8.0 on Oct 25, 2026).
 - [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Models and code for decompiling binaries into C with large language models (code MIT; Hugging Face weights also ship the DeepSeek License with use-based restrictions, last commit Feb 12, 2026).
+- [AG2](https://github.com/ag2ai/ag2) - Open-source multi-agent framework (formerly AutoGen) where a coordinator can watch its whole delegation tree of helper agents and share a task lifecycle (Apache-2.0, v1.3.0 on Nov 4, 2026).
 
