@@ -642,4 +642,6 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (mostly LGPLv3; some plugins and dependencies differ, v6.2.6 on Nov 5, 2026).
 - [r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2 (MIT, v1.5.4 on Nov 5, 2026).
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - MCP server that bridges IDA Pro with language models (MIT, v1.4.0 on Oct 6, 2025; needs paid IDA Pro, not IDA Free).
+- [REA](https://github.com/morluto/rea) - MCP and CLI for reverse-engineering binaries, applications and runtime behavior with agents (MIT, rea-agents v6.8.0 on Oct 25, 2026).
+- [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Models and code for decompiling binaries into C with large language models (code MIT; Hugging Face weights also ship the DeepSeek License with use-based restrictions, last commit Feb 12, 2026).
 
