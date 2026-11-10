@@ -638,4 +638,8 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [Caura](https://github.com/caura-ai/caura) - Self-hostable shared, governed memory for fleets of AI agents with trust tiers, audit trails and MCP access, formerly MemClaw (Apache-2.0, backend v3.37.8 on Nov 2, 2026).
 - [AgentMemory](https://github.com/rohitg00/agentmemory) - Persistent memory for coding agents across sessions via MCP, with lessons, retrieval and local-first defaults (Apache-2.0, v0.9.32 on Nov 4, 2026).
 - [Hivemind](https://github.com/Lesur-ai/hivemind) - Vendor-neutral MCP service that gives a project its own shared short, mid and long-term memory so any agent can pick up what the others learned (Apache-2.0, v1.6.6 on Nov 8, 2026).
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - Software reverse engineering (SRE) framework (Apache-2.0, v12.2 on Oct 22, 2026).
+- [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (mostly LGPLv3; some plugins and dependencies differ, v6.2.6 on Nov 5, 2026).
+- [r2ai](https://github.com/radareorg/r2ai) - LLM-based reversing for radare2 (MIT, v1.5.4 on Nov 5, 2026).
+- [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - MCP server that bridges IDA Pro with language models (MIT, v1.4.0 on Oct 6, 2025; needs paid IDA Pro, not IDA Free).
 
