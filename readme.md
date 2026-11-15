@@ -646,4 +646,5 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Models and code for decompiling binaries into C with large language models (code MIT; Hugging Face weights also ship the DeepSeek License with use-based restrictions, last commit Feb 12, 2026).
 - [AG2](https://github.com/ag2ai/ag2) - Open-source multi-agent framework (formerly AutoGen) where a coordinator can watch its whole delegation tree of helper agents and share a task lifecycle (Apache-2.0, v1.3.0 on Nov 4, 2026).
 - [MIRIX](https://github.com/Mirix-AI/MIRIX) - Multi-agent memory system where six typed memory agents keep full records, a provenance hypergraph indexes them, and AutoDream merges duplicates and distills skills (Apache-2.0, MIRIX-2.0 paper on arXiv 2611.12068, Nov 2026).
+- [OKF Agent Memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents in pure Go, with an embedded MCP server, BM25 search and v0.8.0 scope isolation plus multi-writer sync protection (MIT, active Nov 2026).
 
