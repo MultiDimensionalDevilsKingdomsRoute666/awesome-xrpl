@@ -649,3 +649,4 @@ We welcome contributors with open arms, read the [contribution guidelines](contr
 - [OKF Agent Memory](https://github.com/okf-memory/okf-agent-memory) - Git-native persistent memory for AI coding agents in pure Go, with an embedded MCP server, BM25 search and v0.8.0 scope isolation plus multi-writer sync protection (MIT, active Nov 2026).
 - [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Python agent framework with durable delegation to sub-agents, in-run approvals and answers via RequestInput, and model fallback; v2.68.0 released Nov 2026 (MIT, actively maintained).
 
+- [Agno](https://github.com/agno-agi/agno) - Python framework and AgentOS runtime for agents, teams and workflows; v3.2.0 adds Company task coordination with durable attempt state, restricted Routine runners and A2A v1.0 support (Apache-2.0, released Nov 2026, actively maintained).
